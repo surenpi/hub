@@ -92,6 +92,7 @@ $ sudo apt install hub
 ```
 
 #### Standalone
+1
 
 `hub` can be easily installed as an executable. Download the latest
 [compiled binaries](https://github.com/github/hub/releases) and put it anywhere
